@@ -4,12 +4,12 @@
 # How long can this be?
 
 Websites:
-|   Website   |   Description   |
+|      |      |
 |------|------|
 |      |      |
 
 Social media:
-
+|      |      |
 |------|------|
 |  Discord    |      |
 
