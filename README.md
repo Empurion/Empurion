@@ -4,7 +4,7 @@
 # How long can this be?
 
 
-> [!INFO]
+> [!CAUTION]
 > |   Website   |      |
 > |------|------|
 > |   [Portfolio](https://portfolio.empurion.net)   |      |
