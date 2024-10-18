@@ -4,15 +4,14 @@
 # How long can this be?
 
 Websites:
-|   Project   |   Description   |
+|   Website   |   Description   |
 |------|------|
 |      |      |
 
 Social media:
 
-|   Project   |   Description   |
 |------|------|
-|      |      |
+|  Discord    |      |
 
 Projects:
 |   Project   |   Description   |
