@@ -4,17 +4,17 @@
 # How long can this be?
 
 
-> [!CAUTION]
+> [!IMPORTANT]
 > |   Website   |      |
 > |------|------|
 > |   [Portfolio](https://portfolio.empurion.net)   |      |
 
-Social media:
-|      |      |
-|------|------|
-|  Discord    |      |
+> [!TIP]
+> |      |      |
+> |------|------|
+> |  Discord    |      |
 
-Projects:
-|   Project   |   Description   |
-|------|------|
-|      |      |
+> [!NOTE]
+> |   Project   |   Description   |
+> |------|------|
+> |      |      |
