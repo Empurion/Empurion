@@ -18,4 +18,4 @@
 > [!NOTE]
 > |   Project   |   Description   |
 > |------|------|
-> |   [Docker](https://wwww.github.com/Empurion/Docker)   |   Docker cheat sheet   |
+> |   [Docker](https://github.com/Empurion/Docker)   |   Docker cheat sheet   |
