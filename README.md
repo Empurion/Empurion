@@ -1,8 +1,6 @@
-## Hi there 👋
+# Welcome
 
-
-# How long can this be?
-
+Use the tables below to navigate my websites and projects.
 
 > [!IMPORTANT]
 > |   Website   |   Description   |
