@@ -2,6 +2,9 @@
 
 Use the tables below to navigate my websites and projects.
 
+My current code is behind a reverse proxy authentication wall using Gitea.
+Will create more public repos as I develop.
+
 > [!IMPORTANT]
 > |   Website   |   Description   |
 > |------|------|
