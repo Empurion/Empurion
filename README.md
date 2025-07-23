@@ -5,7 +5,7 @@ Use the tables below to navigate my websites and projects.
 > [!IMPORTANT]
 > |   Website   |   Description   |
 > |------|------|
-> |   [Portfolio](https://portfolio.empurion.net)   |      |
+> |   [Portfolio](https://empurion.net)   |      |
 
 > [!TIP]
 > |   Social Media   |   Username   |
