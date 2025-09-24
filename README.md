@@ -2,8 +2,13 @@
 
 Use the tables below to navigate my websites and projects.
 
-My current code is behind a reverse proxy authentication wall using Gitea.
-Will create more public repos as I develop.
+My current code repository is located at https://git.empurion.net.
+
+> [!NOTE]
+> |   Public-Projects   |   Description   |
+> |------|------|
+> |   [Dynamic React Application](https://git.empurion.net/Empurion/WebApp)   |    React Application that dynamically renders pages/components from back-end WebSocket. |
+> |   [Thorne Brightblade](https://git.empurion.net/Empurion/Thorne-Brightblade)   |    Small discord.bot using Ollama AI and my personal container framework |
 
 > [!IMPORTANT]
 > |   Website   |   Description   |
