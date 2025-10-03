@@ -1,8 +1,5 @@
-# Welcome
-
-My current code repository is located at https://git.empurion.net.
-
 > [!IMPORTANT]
-> |   Website   |   Description   |
+> |   Name   |   Link   |
 > |------|------|
-> |   [Portfolio](https://empurion.net)   |      |
+> |   Portfolio  |   [Portfolio](https://empurion.net)   |
+> |   Repository  |   [Gitea](https://git.empurion.net/Empurion)   |
